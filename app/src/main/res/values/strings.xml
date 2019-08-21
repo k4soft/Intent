@@ -3,4 +3,6 @@
     <string name="saludo">Bienvenido</string>
     <string name="aceptar">Aceptar</string>
     <string name="mensaje">Lo lograste!!! pasaste de activity</string>
+    <string name="digite_nombre">Digite un nombre</string>
+    <string name="requerido">Campo requerido</string>
 </resources>
